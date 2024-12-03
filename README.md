@@ -2,7 +2,7 @@
 
 was developed in FREMO to split the LocoNet-cabling<br> 
 
-![PCB from LocoNet-Verteiler](/pics/LocoNet-Verteiler.png)<br>
+![PCB from LocoNet-Verteiler](/Images/LocoNet-Verteiler.png)<br>
 
 ### miscellaneous
 Original files can be found her:<br>
