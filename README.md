@@ -14,3 +14,10 @@ and was published in
 
 A similar kit is available here:<br>
 https://www.h0fine.de/Shop2/product_info.php?products_id=31<br>
+
+Similar hardware (PCB) are available here (exemplary listing):<br>
+- https://www.floodland.nl/aim/info_locohub_1.htm
+- http://simandit.de/simwiki/doku.php?id=modellbahn:digital#rj12-verteiler
+- http://www.mollehem.se/index.php/en/module-accessories/uttagsram-318-detail
+- https://locohdl.synology.me/pageDE3.html
+- https://locohdl.synology.me/pageDE21.html
