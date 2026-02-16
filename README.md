@@ -13,7 +13,7 @@ and was published in
 - Hp1 Modellbahn – 3. Quartal 1998 Seite 24: "Digital - selbstgemacht: LN-Boxen"<br>
 
 A similar kit is available here:<br>
-https://www.h0fine.de/Shop2/product_info.php?products_id=31<br>
+- https://www.h0fine.de<br>
 
 Similar hardware (PCB) are available here (exemplary listing):<br>
 - https://www.floodland.nl/aim/info_locohub_1.htm
